@@ -1,4 +1,4 @@
-readme_content =  Compte Rendu TP Langage C
+Compte Rendu TP Langage C
 
 ## Description
 
