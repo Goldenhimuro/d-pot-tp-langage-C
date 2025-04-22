@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1741361312 source:c:\users\110380\downloads\mathcm1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1742565556 source:\\fs11\homedir\110380\desktop\mathcm1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1744099963 source:a:\desktop\mathcm1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1745309444 source:c:\users\evanp\desktop\mathcm1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
