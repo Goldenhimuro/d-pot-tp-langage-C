@@ -1,5 +1,3 @@
-from pathlib import Path
-
 readme_content =  Compte Rendu TP Langage C
 
 ## Description
